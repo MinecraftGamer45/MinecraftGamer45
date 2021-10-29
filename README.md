@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MinecraftGamer45
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning Python
